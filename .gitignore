@@ -40,6 +40,9 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+stockscreener/lesson1/node_modules/
+stockscreener/lesson2/node_modules/
+stockscreener/lesson3/node_modules/
 
 # TypeScript v1 declaration files
 typings/
