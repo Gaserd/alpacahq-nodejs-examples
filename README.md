@@ -1,7 +1,5 @@
 Hello everyone!
 
-Hello everyone
-
 This is a repository where I gradually collect lessons and examples for working with the Alpaca API on NodeJS.
 
 So, if you like trading and programming, you should definitely visit this repository and make your own adjustments here.
