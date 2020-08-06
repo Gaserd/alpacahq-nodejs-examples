@@ -1,5 +1,7 @@
 Hello everyone
 
+![hello](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+
 Today we will start a small series of lessons in which we will understand what it is Node.js.
 I don't like boring lessons, I suggest you go straight into battle.
 
@@ -76,6 +78,8 @@ node main.js
 
 Beauty? High? Cool!
 Now we would like the terminal to send something to us in the same way as NPM, we answered something to it, and our program remembered it.
+
+![wow](https://media.giphy.com/media/blqEBWV6iFjGM/giphy.gif)
 
 For this purpose, there is a `readline` in NodeJS, which means something to you right now, but let me show you how it works.
 

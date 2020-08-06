@@ -1,5 +1,7 @@
 Are you ready for a new challenge?
 
+![challenge](https://media.giphy.com/media/AWv3UAFkgz39u/giphy.gif)
+
 Great, because today we will work with dates and with the Alpaca API and try to find out if the exchange is working now.
 
 Let's start with something new and add an NPM package that will allow us to work with dates in a more convenient way.
@@ -202,10 +204,12 @@ Great! You have managed and now I have a small task for you.
 
 Most likely, not everyone lives in NY and just like me have a time offset relative to the NY exchange, so it would be nice to transfer your time to NY time.
 
-Task:
+**Task:**
 learn how to translate your current time to NY time and output it.
-Hint:
+**Hint:**
 you will need to look in the `date-fns-timezone`package
 You can send your code to me anywhere, I will check each one and give you my feedback.
+
+![damn](https://media.giphy.com/media/t9ctG5MZhyyU8/giphy.gif)
 
 Thank you for reading my little episodes! In the next lesson, we will start getting data for the campaign we set.

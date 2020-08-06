@@ -1,3 +1,5 @@
+![hello](https://media.giphy.com/media/hUEnpmgX9LyzZfK2xV/giphy.gif)
+
 Well, here it is the third final lesson, in which you and I will be able to get information on our Stock Market and output it to your console.
 
 In the previous lessons, we learned how to work with the date, output it, get whether the exchange is working, and everything else, and the homework was to finish the program a little so that it showed US NY time relative to ours.
@@ -143,3 +145,5 @@ const { exit } = require('process')
 ```
 
 Actually, this is all, this is a very light version of StockScreneer, then you can dive more and more into the financial world and start processing the received data, as well as do not hesitate to get data from the Alpaca API in real time.
+
+![bye](https://media.giphy.com/media/3orieStB8OH7lanfGg/giphy.gif)
