@@ -6,16 +6,16 @@ Today we will start lesson in which we will understand what it is Node.js, Alpac
 I don't like boring lessons, I suggest you go straight into battle.
 
 Let's set ourselves the following tasks:
-- Install NodeJS and NPM
-- Create your first script
-- How to get a string from the terminal
-- How to work with dates
-- Install Alpaca API
-- Get data from the Alpaca API based on the line we entered in the terminal, namely, find data on Stock
+- [Install NodeJS and NPM](#install-nodejs-and-npm)
+- [Create your first script](#create-your-first-script)
+- [How to get a string from the terminal](#how-to-get-a-string-from-the-terminal)
+- [How to work with dates](#how-to-work-with-dates)
+- [Install Alpaca API](#install-alpaca-api)
+- [Get data from the Alpaca API based on the line we entered in the terminal, namely, find data on Stock](#get-data-from-the-alpaca-api-based-on-the-line-we-entered-in-the-terminal-namely-find-data-on-stock)
 
 Simply put, we will make a very easy Stock Market Checker with you, at the same time we can earn money if we find a correlation between the current price and previous prices.
 
-## Install NodeJS
+## Install NodeJS and NPM
 
 First of all, let's install NodeJS, all the information that we need to install is here:
 https://nodejs.org/en/
