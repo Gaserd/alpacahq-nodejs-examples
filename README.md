@@ -80,7 +80,6 @@ node main.js
 Beauty? High? Cool!
 Now we would like the terminal to send something to us in the same way as NPM, we answered something to it, and our program remembered it.
 
-![wow](https://media.giphy.com/media/blqEBWV6iFjGM/giphy.gif)
 
 ## How to get a string from the terminal
 
@@ -142,7 +141,7 @@ And run it, if you forgot how, just enter the command in the terminal:
 node main.js
 ```
 
-If you have any questions or something went wrong, just tweet me @gaserdgg or email me gaserd123@gmail.com
+If you have any questions or something went wrong, just tweet me https://twitter.com/gaserdgg or email me gaserd123@gmail.com
 
 I see something like this in my terminal:
 ```
