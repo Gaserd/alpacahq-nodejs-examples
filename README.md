@@ -5,12 +5,19 @@ Hello everyone
 Today we will start a lesson in which we will try to understand Node.js and the Alpaca API. I don't like boring lessons, I suggest you go straight into battle.
 
 Let's set ourselves the following tasks
+
 -Install NodeJS and NPM
+
 -Create your first script
+
 -How to get a string from the terminal
+
 -How to work with dates
+
 -Install Alpaca API
+
 -Get data from the Alpaca API based on the line we entered in the terminal, namely, find data on Stock
+
 
 Simply put, we will make a very easy Stock Market Checker which one could use to find a correlation between the current price and previous prices.
 
