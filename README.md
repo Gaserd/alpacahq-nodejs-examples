@@ -6,17 +6,17 @@ Today we will start a lesson in which we will try to understand Node.js and the 
 
 Let's set ourselves the following tasks
 
--Install NodeJS and NPM
+- [Install NodeJS and NPM](#install-nodejs-and-npm)
 
--Create your first script
+- [Create your first script](#create-your-first-script)
 
--How to get a string from the terminal
+- [How to get a string from the terminal](#how-to-get-a-string-from-the-terminal)
 
--How to work with dates
+- [How to work with dates](#how-to-work-with-dates)
 
--Install Alpaca API
+- [Install Alpaca API](#install-alpaca-api)
 
--Get data from the Alpaca API based on the line we entered in the terminal, namely, find data on Stock
+- [Get data from the Alpaca API based on the line we entered in the terminal, namely, find data on Stock](#get-data-from-the-alpaca-api-based-on-the-line-we-entered-in-the-terminal-namely-find-data-on-stock)
 
 
 Simply put, we will make a very easy Stock Market Checker which one could use to find a correlation between the current price and previous prices.
